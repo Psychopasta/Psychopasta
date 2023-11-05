@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Psychopasta
+- 👋 Hi, I’m @Psychopasta, also known as Mark Nicholson
 - 👀 I’m interested in 21st century optical design
 - 🌱 I’m currently learning how to use GitHub
 - 💞️ I’m looking to collaborate on sharing information on modern optical design
